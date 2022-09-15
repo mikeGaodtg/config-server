@@ -1,3 +1,12 @@
 server:
   port: 7001
+  spring: 
+  rabbitmq: 
+    host: 192.168.200.129 
+    port: 5672 
+    username: guest 
+    password: guest 
+    virtual-host: /
+ 
 version: 1221
+
