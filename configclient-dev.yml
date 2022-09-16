@@ -8,5 +8,7 @@ spring:
     password: guest 
     virtual-host: /
  
-version: 1221
+version: 1221434343434
+
+
 
